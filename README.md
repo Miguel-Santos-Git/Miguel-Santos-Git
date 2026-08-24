@@ -1,8 +1,7 @@
-# Miguel
-
-Student and programming enthusiast focused on learning through practical projects.
+# Hi, I'm Miguel 👋
 
 ## About Me
+I'm a student and programming enthusiast focused on learning through practical projects.
 
 I'm currently learning Python and Lua, with a particular interest in
 databases how SQLite 3.
