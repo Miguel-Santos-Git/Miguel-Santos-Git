@@ -1,4 +1,4 @@
-<h1>Hi everyone 👋<h1>
+Hi everyone 👋
 <h2>About Me: </h2>
 <p1>I am Miguel, a student of python. I learning discord bots and SQLite 3.</p1>
   
