@@ -1,6 +1,7 @@
-## Hi everyone 👋
-<h1>About Me: </h1>
-<p1>I am Miguel, a student of python.</p1>
+<h1>Hi everyone 👋<h1>
+<h2>About Me: </h2>
+<p1>I am Miguel, a student of python. I learning discord bots and SQLite 3.</p1>
+  
 <!--
 **Miguel-Santos-Git/Miguel-Santos-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
