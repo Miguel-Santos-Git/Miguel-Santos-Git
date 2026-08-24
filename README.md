@@ -1,20 +1,26 @@
-<h1>Hi everyone 👋
-<h1>About Me: </h1>
-<p1>I am Miguel, a student of python. I learning discord bots and SQLite 3.</p1>
+# Miguel
 
-<h1>About my projects: </h1>
-<p1>I working in a discord bot (Cezar Bot), he will have a lot of commands and a rpg system.</p1>
-<!--
-**Miguel-Santos-Git/Miguel-Santos-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and programming enthusiast focused on learning through practical projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Python and Lua, with a particular interest in
+databases how SQLite 3.
+
+I enjoy building projects, experimenting with different ideas, and
+using each project as an opportunity to improve my programming skills.
+
+## Technologies
+
+- Python
+- Lua
+- Roblox Studio
+- Git / GitHub
+- Blender
+
+## Currently Project
+I am working in a new bot called "Cezar bot", it will serve to some commands and a simple rpg system.
+
+## Currently Learning
+
+Python • Software Development • Game Development
