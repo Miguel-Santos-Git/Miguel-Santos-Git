@@ -4,18 +4,22 @@
 <h1>Hi, I'm Miguel
 
 ## About Me
-I’m a student, and in my free time, I code (pretty much constantly, aside from school); I’m currently learning Python, focusing mainly on databases and Discord bots. Feel free to copy and study my code (especially if you're just starting out, since I’m not exactly an experienced programmer myself haha), but please don’t sell it or do anything of that sort.
-
-## I know
-
-- Python 
-- Lua
-- Roblox Studio
-- Git / GitHub
-- Blender
+- I'm a student, and in my free time, I code(pretty much constantly, aside from school)
+- I'm currently learning Python, focusing mainly on databases and discorde bots
+- Feel free to study my code (especially if you're just starting out, since I’m not exactly an experienced programmer myself haha)
   
 ## Currently Project
 I'm working in a new bot called "Cezar bot" in discord, it will serve to some commands and a simple rpg system.
 
-## Currently Learning
-Python • Software Development • Game Development
+## My contacts
+- https://github.com/Miguel-Santos-Git
+- miguelitodobem7@gmail.com
+
+## I work in
+  <div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</div>
