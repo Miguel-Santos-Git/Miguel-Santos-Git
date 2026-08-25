@@ -4,7 +4,7 @@
 <h1>Hi, I'm Miguel
 
 ## About Me
-- I'm a student, and in my free time, I code(pretty much constantly, aside from school)
+- I'm a student, and in my free time, I code (pretty much constantly, aside from school)
 - I'm currently learning Python, focusing mainly on databases and discorde bots
 - Feel free to study my code (especially if you're just starting out, since I’m not exactly an experienced programmer myself haha)
   
