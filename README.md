@@ -1,7 +1,7 @@
 <h1>Hi, I'm Miguel 👋
 
 ## About Me
-I'm a student and programming enthusiast focused on learning through practical projects.
+I'm a student and programming focused on learning through practical projects and youtube tutorials.
 
 I'm currently learning Python and Lua, with a interest in
 databases how SQLite 3.
