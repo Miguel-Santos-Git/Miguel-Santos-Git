@@ -4,21 +4,18 @@
 <h1>Hi, I'm Miguel
 
 ## About Me
-I'm a student and programming focused on learning through practical projects and youtube tutorials.
+I’m a student, and in my free time, I code (pretty much constantly, aside from school); I’m currently learning Python, focusing mainly on databases and Discord bots. Feel free to copy and study my code (especially if you're just starting out, since I’m not exactly an experienced programmer myself haha), but please don’t sell it or do anything of that sort.
 
-I'm currently learning Python and Lua, with a interest in
-databases how SQLite 3.
-
-## I code with
+## I know
 
 - Python 
 - Lua
 - Roblox Studio
 - Git / GitHub
-
+- Blender
+  
 ## Currently Project
 I'm working in a new bot called "Cezar bot" in discord, it will serve to some commands and a simple rpg system.
 
 ## Currently Learning
-
 Python • Software Development • Game Development
