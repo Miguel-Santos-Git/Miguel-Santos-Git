@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+<h1>Hi, I'm Miguel 👋
 
 ## About Me
 I'm a student and programming enthusiast focused on learning through practical projects.
@@ -11,7 +11,7 @@ using each project as an opportunity to improve my programming skills.
 
 ## Technologies
 
-- Python
+- Python 
 - Lua
 - Roblox Studio
 - Git / GitHub
