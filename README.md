@@ -5,15 +5,11 @@
 
 ## About Me
 - I'm a student, and in my free time, I code (pretty much constantly, aside from school)
-- I'm currently learning Python, focusing mainly on databases and discorde bots
+- I'm currently learning Python, focusing mainly on databases and discord bots
 - Feel free to study my code (especially if you're just starting out, since I’m not exactly an experienced programmer myself haha)
   
 ## Currently Project
 I'm working in a new bot called "Cezar bot" in discord, it will serve to some commands and a simple rpg system.
-
-## My contacts
-- https://github.com/Miguel-Santos-Git
-- miguelitodobem7@gmail.com
 
 ## I work in
   <div data-importer="techs" align="left">
