@@ -1,4 +1,5 @@
-<img width="473" height="480" alt="giphy" src="https://github.com/user-attachments/assets/3d759ba7-c8fe-4e29-ba62-3df1f571323a" />
+<img width="492" height="270" alt="giphy" src="https://github.com/user-attachments/assets/ae7bcc32-8f60-4aa9-b365-9b29f7db197e" />
+
 <h1>Hi, I'm Miguel 👋
 
 ## About Me
