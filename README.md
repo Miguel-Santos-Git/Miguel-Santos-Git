@@ -1,6 +1,10 @@
 <p align="center">
 <img width="492" height="270" alt="giphy" src="https://github.com/user-attachments/assets/ae7bcc32-8f60-4aa9-b365-9b29f7db197e" />
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Miguel-Santos-Git&show_icons=true&rank_icon=github&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/stats-organization/github-stats-extended)
+
+
+
 <h1>Hi, I'm Miguel
 
 ## About Me
