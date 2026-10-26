@@ -3,7 +3,7 @@
 <img width="492" height="270" alt="giphy" src="https://github.com/user-attachments/assets/ae7bcc32-8f60-4aa9-b365-9b29f7db197e" />
 
 ## About Me
-- I'm a student, and in my free time, I code (pretty much constantly, aside from school).
+- I'm a student, and in my free time, I code.
 - I'm currently learning Python, focusing mainly on databases and discord bots.
 - Feel free to study my code!
 
